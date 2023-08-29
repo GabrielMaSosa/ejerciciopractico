@@ -4,4 +4,11 @@ voy a agregar otra linea que simula otra rama
 voya agregar otra linea par aotro commit
 
 
+<<<<<<< HEAD
+
+=======
+haber si puedo simular otro usuarios
+
 ahora voy a crear mas codigo para ver los conflictos con el pull del remoto
+
+>>>>>>> pullnoconflict
