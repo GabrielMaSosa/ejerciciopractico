@@ -2,3 +2,6 @@ SOY111 texto de la rama main
 
 voy a agregar otra linea que simula otra rama 
 voya agregar otra linea par aotro commit
+
+
+ahora voy a crear mas codigo para ver los conflictos con el pull del remoto
